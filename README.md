@@ -2,19 +2,14 @@
 
 <table style="width: 100%; height: 100%;">
   <tr>
-    <td width="25%">
-      <img src="./assets/images/profile.jpg" alt="Jiwon Kwak Photo" width="300" style="border-radius: 50%; display: block; margin: 0 auto;">
-    </td>
     <td width="75%" style="vertical-align: middle;">
       <h2 style="text-align: center;">💡 About Me</h2>
       <p>
         <strong>Hi, I'm Jiwon!</strong>  
-        I'm a versatile technical writer with a passion for transforming complex concepts into clear, accessible content. 
-        With a master's degree in interpretation and translation, I have honed my communication skills across Korean, English, German (C2), and French. 
-        I have hands-on experience with HTML, CSS, Git and some knowledge of JavaScript, and Python.
+        I’m a versatile technical writer who thrives on making complex systems approachable and well-documented. I follow a docs-as-code approach and actively contribute to frontend development — building with HTML, CSS, Git, and growing expertise in JavaScript and Python.
       </p>
       <p>
-        Having successfully transitioned between multiple industries, I have demonstrated my adaptability, self-sufficiency, and relentless pursuit of growth.
+       With a master’s degree in interpretation and translation, I bring strong cross-cultural communication skills in Korean, English, German (C2), and French. My experience across diverse industries reflects my adaptability, autonomy, and drive to keep learning.
       </p>
     </td>
   </tr>
@@ -51,7 +46,24 @@
 
 ### **🌟 Featured Projects**
 
-1. **MBTI Pep Talk API & Web App**
+1.	**Markdown-Based FAQ Site Generator**
+
+- **GitHub**: [FAQ Template Repo](https://github.com/jiwon-lieb/faq_md)
+- **Example Site**: [Random Animal Fact FAQ](https://md-faq.jiwonkwak.co)
+- **Open Source Version**: https://awesome-faq.jiwonkwak.co
+- **Production Use**: https://faq.rbln.ai 
+- **Tech Stack**: Eleventy, TailwindCSS, JavaScript, AlpineJS, Markdown
+
+  _A lightweight, customizable FAQ system powered by markdown content and static site generation._
+
+**✨ Highlights**:
+- Built to simplify documentation and knowledge-sharing for small teams and solo devs.
+- Auto-generates structured JSON from markdown using gray-matter and Node.js.
+- Responsive UI with collapsible content, category filtering, and client-side search.
+- Deployed internally at Rebellions to serve live production FAQs.
+- Emphasizes clarity, scalability, and accessibility—perfect for both open source and enterprise use.- --
+
+2. **MBTI Pep Talk API & Web App**
 
 - **Web App**: [GitHub Repo](https://github.com/jiwon-lieb/peptalk-app) | [Live Demo](https://peptalk.jiwonkwak.co/)  
 - **Tech Stack**: HTML, CSS, JavaScript, Netlify Deployment  
@@ -66,22 +78,6 @@
 - Deployed with Netlify, demonstrating expertise in serverless architecture.
 - Showcases skills in backend, frontend, and deployment.
 
-2.	**Markdown-Based FAQ Site Generator**
-
-- **GitHub**: [FAQ Template Repo](https://github.com/jiwon-lieb/faq_md)
-- **Example Site**: [Random Animal Fact FAQ](https://md-faq.jiwonkwak.co)
-- **Open Source Version**: https://awesome-faq.jiwonkwak.co 
-- **Tech Stack**: Eleventy, TailwindCSS, JavaScript, AlpineJS, Markdown
-
-  _A lightweight, customizable FAQ system powered by markdown content and static site generation._
-
-**✨ Highlights**:
-- Built to simplify documentation and knowledge-sharing for small teams and solo devs.
-- Auto-generates structured JSON from markdown using gray-matter and Node.js.
-- Responsive UI with collapsible content, category filtering, and client-side search.
-- Emphasizes clarity, scalability, and accessibility—perfect for open source contributors.
-
----
 ### Etc
 
 - 📚 **[My Translations](./pages/translations.md)**  
